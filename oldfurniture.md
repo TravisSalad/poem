@@ -1,5 +1,8 @@
-    I know not how it may be with others
-     Who sit amid relics of householdry
+    # Old Furniture
+    ###By: *Thomas Hardy*
+    
+    I know *not* how it may be with others
+     Who sit amid relics of **householdry**
     That date from the days of their mothers' mothers,
      But well I know how it is with me
      Continually.
@@ -8,7 +11,7 @@
      That owned each shiny familiar thing
     In play on its knobs and indentations,
      And with its ancient fashioning
-     Still dallying:
+     _Still dallying:_
 
     Hands behind hands, growing paler and paler,
      As in a mirror a candle-flame
@@ -39,3 +42,6 @@
     Who eyes things thus - no aim pursuing!
      He should not continue in this stay,
      But sink away.
+     
+     -*Thomas Hardy*
+     [Old Furniture](http://www.public-domain-poetry.com/thomas-hardy/old-furniture-17606)
